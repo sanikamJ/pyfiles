@@ -1,0 +1,8 @@
+name = input("What's your name? ")
+print("Nice to meet you , Mr " +  name + "!")
+age = input("year of landing")
+print("ok", age )
+month = input ("month of birth")
+print("ok",  month  )
+date = input ("date of birth")
+print ("is it correct",   date + month + age )
